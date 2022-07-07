@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Realtor App
 
-## Getting Started
+## Welcome! 👋
 
-First, run the development server:
+## This is a dinamic project using NextJs by Vercel, Chakra UI for user interface design and RapidApi as service data.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### This project contains: 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+. Multiple Api Calls to Rapid-Api Hub \
+. Responsive interface desing using Chakra UI \
+⋅ Server-Side Rendering and Static Site Generation using NextJs \
+.Advance filtering data in real time for search your dream property \
+⋅ Best practices and folder structure \
+⋅ Awesome interface components \
+⋅ Explore it \
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+And many more.
+I hope you like it.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Main user interface
+![cap1](https://user-images.githubusercontent.com/45151760/177869907-82d6a6e7-2de8-4e04-8b22-a5564fe6d26a.png)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### Filtering data - user interface
+![cap2](https://user-images.githubusercontent.com/45151760/177870043-fef4f31c-0974-4986-bf04-e279296d18f3.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Mobile user interface
+![iphone](https://user-images.githubusercontent.com/45151760/177870130-b150cd41-58c0-4416-b0ca-08159cc1674c.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**I love to code!** 🚀
