@@ -9,10 +9,10 @@
 . Multiple Api Calls to Rapid-Api Hub \
 . Responsive interface desing using Chakra UI \
 ⋅ Server-Side Rendering and Static Site Generation using NextJs \
-.Advance filtering data in real time for search your dream property \
+. Advance filtering data in real time for search your dream property \
 ⋅ Best practices and folder structure \
 ⋅ Awesome interface components \
-⋅ Explore it \
+⋅ Explore it
 
 And many more.
 I hope you like it.
